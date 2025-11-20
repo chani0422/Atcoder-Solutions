@@ -1,4 +1,5 @@
-# Atcoder-Solutions
-My atcoder solutions wrriten in C++
+# Atcoder-Solutions 
+### My atcoder solutions wrriten in C++
 
-お試し
+
+This repositry is a collection of the code I written in C++.  
